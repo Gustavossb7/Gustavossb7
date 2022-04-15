@@ -2,9 +2,6 @@
 * I’m interested in technology, mainly AI and data science
 * I’m currently learning python, java and starting with git/github
 * I’m looking to collaborate with all of projects types
-* My social media:
-  - [Instagram](https://www.instagram.com/gustavossb/)
-  - [Linkedin](https://www.linkedin.com/in/gustavo-bortolon-3796aa1ab/)
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
